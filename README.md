@@ -3,4 +3,4 @@
 </div> -->
 
 Web Software of 20+ years. Worked with giants such as Meta, Apple, Nokia, Lloyds, Bumble, Delivery Hero etc.
-Built Zyne AI. I also created [hone.sh](https://hone.sh)
+Built Zyne AI. I also created [hone.sh](https://hone.sh) and run web sessions at [webdeepdive.org](https://webdeepdive.org)
