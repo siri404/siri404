@@ -2,7 +2,7 @@ Web Software of 20+ years. Worked with giants such as Meta, Apple, Nokia, Lloyds
 You can see and use my `devcontainer-ai-features`the [features](https://containers.dev/features?search=devcontainer%2Dai%2Dfeatures) I maintain and its usage here.
 <br />
 <br />
-<a href='https://github.com/siri404?tab=packages'><img width="900" height="200" alt="Screenshot 2026-03-13 at 14 00 49" src="stats.png" /></a>
+<a href='https://github.com/siri404?tab=packages'><img width="423" height="152" alt="Screenshot 2026-03-13 at 14 00 49" src="stats.png" /></a>
 
 <!-- <div>
    <img src="https://bot.zyne.in/api/image?fill=ffffff&color=ff7f50&text=⚛&size=60" alt="Alternative text for the SVG image"/> 
