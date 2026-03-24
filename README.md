@@ -4,6 +4,6 @@ You can see and use my `devcontainer-ai-features`the [features](https://containe
 <br />
 <a href='https://github.com/siri404?tab=packages'><img width="100%" height="100%" alt="Screenshot 2026-03-13 at 14 00 49" src="stats-5.png" /></a>
 
-<!-- <div>
-   <img src="https://bot.zyne.in/api/image?fill=ffffff&color=ff7f50&text=⚛&size=60" alt="Alternative text for the SVG image"/> 
-</div> -->
+<div>
+   <img src="https://tars.zyne.digital/api/image?fill=ffffff&color=ff7f50&text=⚛&size=60" alt="Alternative text for the SVG image"/> 
+</div>
